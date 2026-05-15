@@ -1,5 +1,4 @@
-def saludar (nombre):
-    return f"Hola {nombre}"
+from src.saludo import saludar
 
 def test_saludar():
     assert saludar("Ana") == "Hola Ana"
