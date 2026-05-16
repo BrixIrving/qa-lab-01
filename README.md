@@ -14,7 +14,10 @@ Configurar un entorno base de pruebas automatizadas utilizando Git, GitHub y pyt
 ## Estructura del proyecto
 
 src/: código fuente
+
 tests/: pruebas automatizadas
+
+![alt text](image-27.png)
 
 ## Ejecución de Pruebas
 
